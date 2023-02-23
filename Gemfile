@@ -64,3 +64,6 @@ group :development do
   # gem "spring"
 end
 
+# test gems
+echo "gem 'rspec-rails', group: [ :test ]"
+echo "gem 'rails-controller-testing', group: [ :test ]

@@ -66,4 +66,4 @@ end
 
 # test gems
 echo "gem 'rspec-rails', group: [ :test ]"
-echo "gem 'rails-controller-testing', group: [ :test ]
+echo "gem 'rails-controller-testing', group: [ :test ]"
